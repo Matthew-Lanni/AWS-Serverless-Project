@@ -16,7 +16,7 @@ To build a serverless web application that solves traditional web hosting proble
 - Cloudwatch metrics, logs, and alarms for monitoring and 
 
 ## Architecture Diagram
-![Architecture Diagram](screenshots/Architecture Diagram.png)
+![Architecture Diagram](Screenshots/Architecture Diagram.png)
 
 ## Security Considerations
 - AWS manages the underlying network of all services
