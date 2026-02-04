@@ -46,7 +46,7 @@ To build a serverless web application that solves traditional web hosting proble
 - DynamoDB
 - IAM
 - CloudWatch (Metrics, logs, alarms)
-- 
+  
 ## What I Learned
 - How to set up a serverless website
 - How to use a HTTP API Gateway to route HTTP traffic 
